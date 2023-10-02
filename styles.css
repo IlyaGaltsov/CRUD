@@ -1,0 +1,22 @@
+#users {
+  padding: 10px;
+}
+#users > div {
+  display: flex;
+  gap: 10px;
+  margin: 5px;
+}
+
+.actions > input {
+  margin-right: 5px;
+}
+
+.editBtn {
+  color: red;
+}
+
+#form form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
